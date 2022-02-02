@@ -1,0 +1,69 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+
+.nutrition_li
+{
+  margin-top: 13px;
+}
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+html {
+    scroll-behavior:smooth;
+}
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links {
+     display: inline;
+    float: right;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 18px;
+
+}
+
+
+
